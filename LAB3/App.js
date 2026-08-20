@@ -2,7 +2,7 @@ import http from 'http';
 const server = http.createServer(); 
 server.on('request',(req,res) => 
 {
-    res.write("<h1>Welcome to server side Programming</h1>");
+    res.write("<h1 style='color: red'>Welcome to server side Programming</h1>");
     res.write("<h2>Nodemon is tracking the files</h2>")
     res.end();
 })
