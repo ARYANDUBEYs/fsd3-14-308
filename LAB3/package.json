@@ -4,8 +4,8 @@
   "description": "* **http** -- Hyper Text Transfer Protocol\r * **html** -- Hyper Text Markup Language\r * **CSS** -- Cascade Style Sheet\r * **npm** -- Node Package Manager",
   "main": "App.js",
   "scripts": {
-   "start": "node App.js",
-   "dev": "nodemon App.js"
+    "start": "node App.js",
+    "dev": "nodemon prg9.js"
   },
   "keywords": [],
   "type": "module",
