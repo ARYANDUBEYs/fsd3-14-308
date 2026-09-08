@@ -5,7 +5,7 @@
   "main": "App.js",
   "scripts": {
     "start": "node App.js",
-    "dev": "nodemon prg9.js"
+    "dev": "nodemon app1.js"
   },
   "keywords": [],
   "type": "module",
